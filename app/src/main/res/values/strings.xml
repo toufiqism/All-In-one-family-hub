@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">All-In-one-family-hub</string>
+    <string name="app_name">Family Hub</string>
+    <string name="default_notification_channel_id">family_hub_channel</string>
+    <string name="grocery_lists">Grocery</string>
+    <string name="todo_lists">To-Do</string>
+    <string name="shopping_lists">Shopping</string>
 </resources>
